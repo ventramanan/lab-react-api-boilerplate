@@ -1,0 +1,19 @@
+*{
+  background-color: rgb(168, 127, 255);
+}
+
+#flex{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+img{
+  height: 30vh;
+  width: 10vw;
+}
+
+#title{
+  text-align: center;
+}
